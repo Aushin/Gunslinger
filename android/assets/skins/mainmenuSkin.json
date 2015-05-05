@@ -1,0 +1,14 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "bookman32black": { "file": "fonts/bookman.fnt" },
+    "bookman18black": { "file": "fonts/bookman18.fnt" },
+    "bookman40black": { "file": "fonts/bookman40bold.fnt" },
+    "bookman72black": { "file": "fonts/bookman72bold.fnt" },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "default": { "up": "buttonorange" , "font": "bookman40black", }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "default": { "font": "bookman72black", }
+  }
+}

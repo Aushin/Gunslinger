@@ -1,0 +1,21 @@
+
+mainmenuPack.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonorange
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  split: 9, 9, 9, 9
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+mainmenu
+  rotate: false
+  xy: 2, 44
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
